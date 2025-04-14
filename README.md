@@ -24,7 +24,7 @@ src/
 ├── dto/                  // Transferência de dados
 ├── entity/               // Modelo de banco
 ├── repository/           // Interface do JPA
-├── GerenciamentoPessoasApplication.java
+├── PessoasApiApplication.java
 └── resources/
     └── application.properties
 ```
