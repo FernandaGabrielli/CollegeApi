@@ -33,21 +33,6 @@ src/
 
 ## 🛠️ Configuração
 
-1. Crie o banco:
-```sql
-CREATE DATABASE universidade_db;
-```
-
-2. No `application.properties`:
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/universidade_db
-spring.datasource.username=root
-spring.datasource.password=senha
-spring.jpa.hibernate.ddl-auto=update
-```
-
----
-
 ## ▶️ Rodar o projeto
 
 ```bash
@@ -102,7 +87,7 @@ src/
 ├── dto/                  // Data Transfer
 ├── entity/               // Entity
 ├── repository/           // JPA Interface
-├── GerenciamentoPessoasApplication.java
+├── PessoasApiApplication.java
 └── resources/
     └── application.properties
 ```
@@ -111,20 +96,6 @@ src/
 
 ### 🛠️ Setup
 
-1. Create DB:
-```sql
-CREATE DATABASE universidade_db;
-```
-
-2. Edit `application.properties`:
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/universidade_db
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-spring.jpa.hibernate.ddl-auto=update
-```
-
----
 
 ### ▶️ Run
 
