@@ -67,6 +67,7 @@ MIT License
 ## 🇬🇧 People Management - University
 
 Simple REST API with **Spring Boot** to register and retrieve university people using MySQL.
+Made by Fernanda Gabrielli e Clara Heloísa 
 
 ---
 
