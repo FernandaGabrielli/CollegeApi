@@ -2,9 +2,6 @@
  
 API REST feita com **Spring Boot** para cadastrar e buscar pessoas de uma universidade. Usa banco de dados MySQL.
 Feito por Fernanda Gabrielli e Clara Heloísa
-
-> 🇬🇧 [English Version](#people-management---university)
-
 ---
 
 ## 🚀 Tecnologias
@@ -63,6 +60,9 @@ Busca pessoa por ID.
 MIT License
 
 ---
+
+<details id="english-version">
+<summary>🇬🇧 [English Version]</summary>
 
 ## 🇬🇧 People Management - University
 
@@ -123,3 +123,4 @@ Get person by ID.
 ### 📄 License
 
 MIT License
+</details>
