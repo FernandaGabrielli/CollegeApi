@@ -49,8 +49,8 @@ spring.jpa.hibernate.ddl-auto=update
 ## ▶️ Rodar o projeto
 
 ```bash
-git clone https://github.com/sua-conta/gerenciamento-pessoas.git
-cd gerenciamento-pessoas
+git clone https://github.com/fernandagabrielli/collegeapi.git
+cd pessoas-api
 ./mvnw spring-boot:run
 ```
 
@@ -160,8 +160,8 @@ Edit `application.properties` with your MySQL credentials.
 ### ▶️ Run
 
 ```bash
-git clone https://github.com/your-account/gerenciamento-pessoas.git
-cd gerenciamento-pessoas
+git clone https://github.com/fernandagabrielli/collegeapi.git
+cd pessoas-api
 ./mvnw spring-boot:run
 ```
 
