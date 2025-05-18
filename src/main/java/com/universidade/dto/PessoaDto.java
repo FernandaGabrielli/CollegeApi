@@ -1,4 +1,4 @@
 package com.universidade.dto;
 
-public record PessoaDto(String string, String cpf, int year) {
+public record PessoaDto(String name, String cpf, int year) {
 }
